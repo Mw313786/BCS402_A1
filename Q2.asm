@@ -1,4 +1,4 @@
-AREA Fibonacci,CODE,READONLY
+     AREA Fibonacci,CODE,READONLY
 START
      MOV r0,#0
      MOV r1,#1
