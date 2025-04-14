@@ -1,4 +1,4 @@
-AREA BlockTransfer, CODE, READONLY
+        AREA BlockTransfer, CODE, READONLY
 ENTRY
         LDR r0, =src
         LDR r1, =dst
