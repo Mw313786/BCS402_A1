@@ -1,4 +1,4 @@
-AREA PGR7,CODE, READONLY
+           AREA PGR7,CODE, READONLY
 ENTRY
            MRS r0, CPSR       
            ORR r0, r0, #0x80   
