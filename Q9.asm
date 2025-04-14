@@ -1,4 +1,4 @@
-AREA SwapCode, CODE, READONLY 
+        AREA SwapCode, CODE, READONLY 
 ENTRY                      
         
         LDR r2, =0X40000000          
