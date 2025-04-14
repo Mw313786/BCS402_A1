@@ -1,4 +1,4 @@
-AREA MyCode, CODE, READONLY  
+        AREA MyCode, CODE, READONLY  
 ENTRY                      
 
         LDR r1, =0X40000000        
