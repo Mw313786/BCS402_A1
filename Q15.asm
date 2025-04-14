@@ -1,4 +1,4 @@
-AREA BinarySearch, CODE, READONLY  
+        AREA BinarySearch, CODE, READONLY  
 ENTRY                               
 
         LDR r0, =SortedArray               
